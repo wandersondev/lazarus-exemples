@@ -1,0 +1,27 @@
+object FrmHintEx: TFrmHintEx
+  Left = 622
+  Height = 93
+  Top = 197
+  Width = 320
+  Caption = 'Exemplo de utilização hint personalizado em lazarus'
+  ClientHeight = 93
+  ClientWidth = 320
+  LCLVersion = '2.2.4.0'
+  object btnShowHint: TButton
+    Left = 16
+    Height = 25
+    Top = 56
+    Width = 291
+    Caption = 'Show Hint'
+    OnClick = btnShowHintClick
+    TabOrder = 0
+  end
+  object edtShowHint: TEdit
+    Left = 8
+    Height = 23
+    Top = 8
+    Width = 304
+    OnEnter = edtShowHintEnter
+    TabOrder = 1
+  end
+end

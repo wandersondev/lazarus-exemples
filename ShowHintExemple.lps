@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ShowHintExemple.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ufrmhintex.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmHintEx"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uFrmHintEx"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="56" Y="3"/>
+        <FoldState Value=" T3iR031t"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="933"/>
+        <CursorPos X="15" Y="942"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="ufrmhintex.pas"/>
+        <Caret Line="46" Column="22" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmhintex.pas"/>
+        <Caret Line="36" Column="26" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmhintex.pas"/>
+        <Caret Line="37" Column="41" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmhintex.pas"/>
+        <Caret Line="56" Column="37" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmhintex.pas"/>
+        <Caret Line="42" Column="52" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmhintex.pas"/>
+        <Caret Line="44" Column="52" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmhintex.pas"/>
+        <Caret Line="4" Column="13"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
